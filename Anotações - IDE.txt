@@ -1,0 +1,32 @@
+Arrange Act Assert
+
+O que são Arrange, Act e Assert, do padrão AAA, respectivamente?
+Inicializa Invoca e Verifica
+
+Como usar Assert
+Assert.AreEqual(esperado, resultado)
+
+Por que só alguns templates ficam disponíveis?
+Nenhuma das opções
+
+Qual a finalidade do QuickWatch?
+para observar variáveis e expressões. As janelas só estão disponíveis durante uma sessão de depuração.
+A caixa de diálogo QuickWatch exibe uma única variável por vez e deve ser fechada antes que a depuração possa continuar. 
+Inspecionar o código visualizando valores das variáveis
+
+Como é possível instalar cargas de trabalho a qualquer momento?
+deve executar o Instalador do Visual Studio como administrador. Se você tentar modificar Visual Studio como um usuário típico,
+você obterá um aviso de Controle de Conta de Usuário solicitando credenciais de administrador.
+Ferramentas > Obter Ferramentas e Funcionalidades
+
+Como é feita a depuração no Visual Studio?
+BreakPoint na linha a ser depurada e excutando o código. Navegação por f5, f10 e f11.
+
+Por que é indicado salvar o seu projeto no GitHub?
+Pois assim fica salvo e pode ser baixado e acessado de qualquer local
+
+Qual a finalidade de testar um código?
+Saber se o retorno do método/classe é igual oo esperado.
+
+De que forma é possível a integração com o GitHub pelo Visual Studio?
+clonar um repositório existente ou criar pelo menu Git
